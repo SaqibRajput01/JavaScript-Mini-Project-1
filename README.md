@@ -21,11 +21,11 @@ The Simon Says Game is a memory game where players must repeat a sequence of col
 To run the game locally, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simon-says-game.git
+    git clone https://github.com/SaqibRajput01/JavaScript-Mini-Project-1
     ```
 2. Navigate to the project directory:
     ```bash
-    cd simon-says-game
+    cd Simon Says Game
     ```
 3. Open `index.html` in your preferred web browser.
 
